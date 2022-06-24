@@ -6,7 +6,7 @@
     <title>JIOTV 2.0</title>
     <link rel="shortcut icon" type="image/x-icon" href="https://i.ibb.co/37fVLxB/f4027915ec9335046755d489a14472f2.png">
     <meta name="robots" content="noindex" />
-    <link rel="stylesheet" href="assets/css/techiesneh.min.css">
+    <link rel="stylesheet" href="assets/css/livetvpro.min.css">
     <link rel="stylesheet" href="assets/search.css">
     <script src="https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js"></script>
     <script src="https://code.iconify.design/2/2.1.2/iconify.min.js"></script>
